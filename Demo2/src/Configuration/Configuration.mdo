@@ -5,6 +5,7 @@
     <key>ru</key>
     <value>Demo2</value>
   </synonym>
+  <comment> </comment>
   <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="7b34aed5-6e37-4020-8ad9-1c8c6ed4785d"/>
   <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="49211698-6543-4373-b5f8-bc38a4e8e115"/>
   <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="4e6f20ff-baa6-48b3-ad92-6f6ad27cad8a"/>
