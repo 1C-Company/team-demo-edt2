@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mdclass:Document xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="ac357dd8-1ae6-45e4-b0fd-ed06433aa6f4">
+<mdclass:Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="ac357dd8-1ae6-45e4-b0fd-ed06433aa6f4">
   <producedTypes>
     <objectType typeId="3a052b62-466c-4370-8ffc-79450d319fc8" valueTypeId="4670f585-8d76-4265-a17c-b91822009c22"/>
     <refType typeId="63c401ec-4c0f-4cda-a354-51ae25ce8d2f" valueTypeId="6522b8d5-8f6e-49eb-b1ad-9e893028ef3a"/>
@@ -26,4 +26,40 @@
   <autonumbering>true</autonumbering>
   <postInPrivilegedMode>true</postInPrivilegedMode>
   <unpostInPrivilegedMode>true</unpostInPrivilegedMode>
+  <attributes uuid="a52cf100-f341-4e10-a987-8b3034f57473">
+    <name>Сеньор</name>
+    <synonym>
+      <key>ru</key>
+      <value>Сеньор</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>10</length>
+      </stringQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:StringValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+  <attributes uuid="e4b3b5b9-5323-478d-807f-9d45f19a189d">
+    <name>Сеньора</name>
+    <synonym>
+      <key>ru</key>
+      <value>Сеньора</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>10</length>
+      </stringQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:StringValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
 </mdclass:Document>
